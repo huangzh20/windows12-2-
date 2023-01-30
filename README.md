@@ -17,7 +17,7 @@
 更多功能还在制作之中...
 
 *在线预览*
-Hello！！！（https://github.com/huangzh20/windows12-2-.git）
+Hello（https://github.com/huangzh20/windows12-2-.git ）
 
 ## 安装和使用
 下载代码，无需安装，打开desktop.html即可
